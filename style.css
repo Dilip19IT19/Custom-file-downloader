@@ -16,7 +16,7 @@
 
 .box
 {
-  width: 370px;
+  min-width: 350px;
   height: 230px;
   border: 1px solid black;
   display: flex;
