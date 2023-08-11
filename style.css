@@ -16,7 +16,7 @@
 
 .box
 {
-  width: 400px;
+  width: 370px;
   height: 230px;
   border: 1px solid black;
   display: flex;
@@ -36,6 +36,7 @@
   letter-spacing: 1px;
   margin-bottom: 25px;
   color: rgba(5, 5, 5, 0.895);
+  
 }
 
 .info
